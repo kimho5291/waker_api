@@ -9,7 +9,9 @@
 
 ## 프로젝트 소개
 Waker는 애인, 가족, 최애 등읠 목소리로 대화하며 일어나는 대화형 어플을 제작하는 프로젝트입니다.<br>
-FE: Flutter, BE: NestJS, AI Model: <a href="https://github.com/FunAudioLLM/CosyVoice">CozyVoice</a> <br>
+FE: <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a> 
+BE: <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+AI Model: <a href="https://github.com/FunAudioLLM/CosyVoice">CozyVoice</a> <br>
 
 
 ## Description
