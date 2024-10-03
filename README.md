@@ -24,6 +24,7 @@
 - 클라우드 인프라를 AWS를 통해서 구축하였습니다.
 - [CI/CD] Jenkins를 활용하여 배포가 가능합니다.
 - 기상(가상청 공공 데이터), 뉴스(딥서치 뉴스 API) 정보를 가져와 사용합니다.
+- 개발 기간: 24.06 ~ 24.10(총 4개월)
 
 ### Tech Stack
 <p align="center">
@@ -57,11 +58,20 @@
 ![image](https://github.com/user-attachments/assets/25370fc9-881b-4b76-951b-9bb6761974f9)
 
 
-
-## DB 설계
+## 서버 설계 및 구현
+### DB 설계
 - DB는 mysql을 사용하였으며 ERDCloud(Online Tool)을 사용하여 schema를 설계하였습니다.
 
 ![image](https://github.com/user-attachments/assets/0726c027-76e3-454e-b7eb-fcac55781c15)
+
+### Envionment 관리
+- AWS 서비스 중 AWS Systems Manager Parameter Store를 활용하여 중요 ENV 관리
+- .env에선 AWS parameter store에 접속하기 위한 정보만 가지고 있다.
+
+- ![envvv](https://github.com/user-attachments/assets/34db1186-4f6c-4610-9757-dc9490b1dfe5)
+
+### 코드 구현
+
 
 
 ## Description
