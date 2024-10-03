@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">애인, 가족, 최애 등의 목소리로 대화하며 일어나는 대화형 어플</p>
-
-## 프로젝트 소개
-Waker는 애인, 가족, 최애 등읠 목소리로 대화하며 일어나는 대화형 어플을 제작하는 프로젝트입니다.<br>
 FE: <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a> 
 BE: <img src="https://img.shields.io/badge/nestjs-123?style=for-the-badge&logo=nestjs&logoColor=%23E0234E"></a> 
 AI Model: 
@@ -16,9 +13,27 @@ AI Model:
   <img alt="Static Badge" src="https://img.shields.io/badge/CozyVoice-123?style=for-the-badge&color=%23ECD53F">
 </a> <br>
 
+## 프로젝트 소개
+Waker는 애인, 가족, 최애 등읠 목소리로 대화하며 일어나는 대화형 어플을 제작하는 프로젝트입니다.<br>
+Waker-api는 waker 어플리케이션에서 사용하는 백엔드 API 서버입니다.<br>
+### Tech Stack
+
+
+## 프로젝트 기여
+1. UX/UI 디자인
+2. 백엔드 설계 및 구현
+
 ## 링크
-dev-api-swagger: <a href="https://api.vvaker.com/api">링크</a>
-figma: <a href="https://www.figma.com/design/al2sXFT1PyxuZOE3mhgBy9/waker_hi-fi?node-id=0-1&t=eGh9JdMahgkOUPZb-1">링크<a>
+Swagger: <a href="https://api.vvaker.com/api">링크</a> <br>
+디자인: <a href="https://www.figma.com/design/al2sXFT1PyxuZOE3mhgBy9/waker_hi-fi?node-id=0-1&t=eGh9JdMahgkOUPZb-1">Figma<a>
+
+### DB
+DB는 mysql을 사용하였으며 ERDCloud(Online Tool)을 사용하여 schema를 설계하였습니다.
+![image](https://github.com/user-attachments/assets/0726c027-76e3-454e-b7eb-fcac55781c15)
+
+
+
+## 기여한 부분
 
 
 ## Description
