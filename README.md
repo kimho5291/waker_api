@@ -4,7 +4,8 @@
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 <p align="center">
-  ![Group 51](https://github.com/user-attachments/assets/f2ff1529-0b95-478e-b59a-356f51fb1c4c)
+  ![Group 51]()
+  <img src="https://github.com/user-attachments/assets/f2ff1529-0b95-478e-b59a-356f51fb1c4c" width="200" alt="Waker Logo" />
 </p>
 
 [circleci-url]: https://circleci.com/gh/nestjs/nest
