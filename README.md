@@ -25,6 +25,7 @@
 - [CI/CD] Jenkins를 활용하여 배포가 가능합니다.
 - 기상(가상청 공공 데이터), 뉴스(딥서치 뉴스 API) 정보를 가져와 사용합니다.
 - 개발 기간: 24.06 ~ 24.10(총 4개월)
+- 개발 API 문서 : <a href="https://api.vvaker.com/api">링크</a>
 
 ### Tech Stack
 <p align="center">
