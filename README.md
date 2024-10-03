@@ -68,6 +68,14 @@
 ![envvv](https://github.com/user-attachments/assets/34db1186-4f6c-4610-9757-dc9490b1dfe5)
 
 ### 코드 구현
+- NestJS의 TypeORM을 사용하여 Mysql 연동
+- API 문서화를 위해 Swagger 연동
+- 정보(기상, 뉴스) 서드파티 API 연동 및 Cron을 사용하여 주기적으로 실행
+- S3의 보안을 위해 Presigned url을 활용한 음성 파일 업데이트
+- Oauth를 통한 카카오, 구글, 네이버 로그인
+- Config Module에 Parameter store 연동
+- Jenkins를 통해 CI/CD 파이프라인 구축
+
 ```bash
 ├── Dockerfile
 ├── Jenkinsfile
@@ -189,56 +197,3 @@
 ├── tsconfig.build.json
 └── tsconfig.json
 ```
-
-
-
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
-## Installation
-
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
