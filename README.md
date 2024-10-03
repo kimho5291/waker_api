@@ -5,10 +5,14 @@
 </p>
 
 <p align="center">애인, 가족, 최애 등의 목소리로 대화하며 일어나는 대화형 어플</p>
-FE: <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>, BE: <img src="https://img.shields.io/badge/nestjs-123?style=for-the-badge&logo=nestjs&logoColor=%23E0234E"/>, AI Model: 
+<p align="center">
+FE: <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+BE: <img src="https://img.shields.io/badge/nestjs-123?style=for-the-badge&logo=nestjs&logoColor=%23E0234E"/>
+AI Model: 
 <a href="https://github.com/FunAudioLLM/CosyVoice"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/CozyVoice-123?style=for-the-badge&color=%23ECD53F"/>
 </a>
+</p>
 
 ## 프로젝트 소개
 Waker는 애인, 가족, 최애 등읠 목소리로 대화하며 일어나는 대화형 어플을 제작하는 프로젝트입니다.<br>
