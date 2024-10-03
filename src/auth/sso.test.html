@@ -1,0 +1,42 @@
+<html lang="en">
+  <head>
+    <title>안녕</title>
+    <meta name="google-signin-scope" content="profile email">
+    <meta name="google-signin-client_id" content="890490615837-2qpjs66o1pgs52daq0cp9k8keoil3kpq.apps.googleusercontent.com">
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <script src="https://static.nid.naver.com/js/naveridlogin_js_sdk_2.0.2.js" charset="utf-8"></script>
+  </head>
+  <body>
+
+    안녕 <br>
+
+    <ul>
+      <li>
+        <a href="https://kauth.kakao.com/oauth/authorize?client_id=70069677ee88e47eb10b36f85f960633&redirect_uri=http://localhost:3000/api/auth/0/redirect&response_type=code">
+          카카오 로그인
+        </a>
+      </li>
+      <li>
+        <a href="https://nid.naver.com/oauth2.0/authorize?response_type=code&client_id=P22mbvkVOAvMMj2xBmYE&redirect_uri=http://localhost:3000/api/auth/1/redirect&state=123123">
+          네이버 oauth 로그인
+        </a>
+      </li>
+
+      <li>
+        <a href="https://accounts.google.com/o/oauth2/v2/auth?client_id=886497147546-bbg5kmr2aivhuqt7fd5ktmj1hrvpg3hv.apps.googleusercontent.com&redirect_uri=http://localhost:3000/api/auth/2/redirect&response_type=code&scope=openid profile email">
+          구글 oauth 로그인
+        </a>
+      </li>
+
+      <li>
+        <a href="https://appleid.apple.com/auth/authorize?client_id=com.memorise.service&redirect_uri=https://test.usus.co.kr/api/auth/3/redirect&response_type=code id_token&state=1231&scope=name email&response_mode=form_post">
+          애플 oauth 로그인
+        </a>
+      </li>
+
+    </ul>
+    
+
+  </body>
+
+</html>
