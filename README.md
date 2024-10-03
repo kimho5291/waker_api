@@ -34,7 +34,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/git-123?style=for-the-badge&logo=git&logoColor=%23F05032">
   <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-123?style=for-the-badge&logo=jenkins&logoColor=%23D24939">
   <img alt="Static Badge" src="https://img.shields.io/badge/amazonec2-123?style=for-the-badge&logo=amazonec2&logoColor=%23FF9900">
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/amazons3-123?style=for-the-badge&logo=amazons3&logoColor=%23569A31">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-123?style=for-the-badge&logo=docker&logoColor=%232496ED">
 </p>
 
 ## 프로젝트 기여
