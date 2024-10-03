@@ -1,6 +1,5 @@
 
 # Waker
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d34d8252-bd35-4d80-a0b7-b276596b8721" width="200" alt="Waker Logo" />
 </p>
@@ -11,7 +10,7 @@ BE: <img src="https://img.shields.io/badge/nestjs-123?style=for-the-badge&logo=n
 AI Model: 
 <a href="https://github.com/FunAudioLLM/CosyVoice"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/CozyVoice-123?style=for-the-badge&color=%23ECD53F">
-</a> <br>
+</a>
 
 ## 프로젝트 소개
 Waker는 애인, 가족, 최애 등읠 목소리로 대화하며 일어나는 대화형 어플을 제작하는 프로젝트입니다.<br>
