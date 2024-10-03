@@ -64,8 +64,16 @@
 
 ## 서버 설계 및 구현
 ### Ci/CD
-- dfdf
-![Group 45](https://github.com/user-attachments/assets/25899316-047d-4bab-9b13-30f0f3e299e1)
+- Github WebHook으로 dev에 event 발생 시 jenkins trigger
+- Jenkins는 build를 통해서 코드가 정상 컴파일되는지 확인
+- 생성된 Docker image는 AWS ECR에 push
+- SSH로 private EC2 접속
+- EC2 container stop/image rm
+- 최신 docker image pull
+- 서버 재가동
+
+![Group 45](https://github.com/user-attachments/assets/b2ce5e24-0acc-41c8-b88a-9392ebcdb0d9)
+
 
 ### DB 설계
 - DB는 mysql을 사용하였으며 ERDCloud(Online Tool)을 사용하여 schema를 설계하였습니다.
