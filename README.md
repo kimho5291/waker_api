@@ -1,6 +1,6 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="[https://nestjs.com/img/logo-small.svg](https://github.com/user-attachments/assets/97a4e963-1b40-4ab3-85fe-1d49e369dd6d)" width="200" alt="Waker Logo" /></a>
-</p>
+
+# Waker
+
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 
