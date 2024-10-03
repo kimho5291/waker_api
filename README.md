@@ -1,16 +1,15 @@
 
-# Waker
 
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 <p align="center">
-  ![Group 51]()
   <img src="https://github.com/user-attachments/assets/f2ff1529-0b95-478e-b59a-356f51fb1c4c" width="200" alt="Waker Logo" />
 </p>
 
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+# Waker
+<p align="center">애인, 가족, 최애 등의 목소리로 대화하며 일어나는 대화형 어플</p>
 
-  <p align="center">애인, 가족, 최애 등의 목소리로 대화하며 일어나는 대화형 어플</p>
+
+  
     <p align="center">
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
 <a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
