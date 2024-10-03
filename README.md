@@ -3,8 +3,9 @@
 
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-
-![Group 51](https://github.com/user-attachments/assets/f2ff1529-0b95-478e-b59a-356f51fb1c4c)
+<p align="center">
+  ![Group 51](https://github.com/user-attachments/assets/f2ff1529-0b95-478e-b59a-356f51fb1c4c)
+</p>
 
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
