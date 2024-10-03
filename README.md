@@ -18,7 +18,8 @@
 - Waker는 애인, 가족, 최애 등읠 목소리로 대화하며 일어나는 대화형 어플을 제작하는 프로젝트입니다.
 - 음성 학습을 하여 원하는 대상의 목소리를 cloning할 수 있습니다.
 - 알람을 통해서 정보(기상, 날씨) 제공을 해줍니다.
-  
+- 사용자간 음성파일을 공유하여 사용할 수 있습니다.
+### waker-api
 - Waker-api는 waker 어플리케이션에서 사용하는 백엔드 API 서버입니다.
 - 클라우드 인프라를 AWS를 통해서 구축하였습니다.
 - [CI/CD] Jenkins를 활용하여 배포가 가능합니다.
@@ -33,7 +34,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/git-123?style=for-the-badge&logo=git&logoColor=%23F05032">
   <img alt="Static Badge" src="https://img.shields.io/badge/jenkins-123?style=for-the-badge&logo=jenkins&logoColor=%23D24939">
   <img alt="Static Badge" src="https://img.shields.io/badge/amazonec2-123?style=for-the-badge&logo=amazonec2&logoColor=%23FF9900">
-
+  
 </p>
 
 ## 프로젝트 기여
