@@ -46,6 +46,7 @@
 ## UX/UI 디자인
 - 최신 트랜드를 따라가고자 목표를 잡았으며, 토끼의 캐릭터를 마스코트로 잡아 귀여움을 더했습니다. 
 - 디자인: <a href="https://www.figma.com/design/al2sXFT1PyxuZOE3mhgBy9/waker_hi-fi?node-id=0-1&t=eGh9JdMahgkOUPZb-1">Figma<a>
+
 ![image](https://github.com/user-attachments/assets/b448347a-036b-40f2-a82c-c857cdb4750b)
 
 
