@@ -54,6 +54,7 @@
 ## 클라우드 인프라 설계
 - AWS를 사용하여 클라우드 인프라 설계
 - 음성 파일을 저장하기 위해 S3를 사용하였으며, 보안 및 다운로드 속도 개선을 위한 CDN 도입
+- Route53 + ALB + Certification = HTTPS 적용
 - 비용 절감을 위해서 RDS를 현재 사용하지 않으며, EC2 내 docker를 활용하여 mysql 사용
 ![image](https://github.com/user-attachments/assets/25370fc9-881b-4b76-951b-9bb6761974f9)
 
