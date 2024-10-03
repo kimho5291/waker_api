@@ -2,7 +2,7 @@
 # Waker
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f2ff1529-0b95-478e-b59a-356f51fb1c4c" width="200" alt="Waker Logo" />
+  <img src="https://github.com/user-attachments/assets/52b011b5-3051-4572-9650-e256f5ebcbff" width="200" alt="Waker Logo" />
 </p>
 
 <p align="center">애인, 가족, 최애 등의 목소리로 대화하며 일어나는 대화형 어플</p>
@@ -15,6 +15,10 @@ AI Model:
 <a href="https://github.com/FunAudioLLM/CosyVoice"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/CozyVoice-123?style=for-the-badge&color=%23ECD53F">
 </a> <br>
+
+## 링크
+dev-api-swagger: <a href="https://api.vvaker.com/api">링크</a>
+figma: <a href="https://www.figma.com/design/al2sXFT1PyxuZOE3mhgBy9/waker_hi-fi?node-id=0-1&t=eGh9JdMahgkOUPZb-1">링크<a>
 
 
 ## Description
