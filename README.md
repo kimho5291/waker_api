@@ -68,6 +68,128 @@
 ![envvv](https://github.com/user-attachments/assets/34db1186-4f6c-4610-9757-dc9490b1dfe5)
 
 ### 코드 구현
+```bash
+├── Dockerfile
+├── Jenkinsfile
+├── README.md
+├── nest-cli.json
+├── output.txt
+├── package-lock.json
+├── package.json
+├── src
+|  ├── alarm
+|  |  ├── alarm.controller.spec.ts
+|  |  ├── alarm.controller.ts
+|  |  ├── alarm.entity.ts
+|  |  ├── alarm.module.ts
+|  |  ├── alarm.service.spec.ts
+|  |  ├── alarm.service.ts
+|  |  ├── dto
+|  |  |  ├── request.ts
+|  |  |  └── response.ts
+|  |  └── information
+|  |     ├── news.entity.ts
+|  |     ├── news.service.ts
+|  |     ├── weather.entity.ts
+|  |     └── weather.service.ts
+|  ├── app.module.ts
+|  ├── auth
+|  |  ├── auth.controller.spec.ts
+|  |  ├── auth.controller.ts
+|  |  ├── auth.entity.ts
+|  |  ├── auth.module.ts
+|  |  ├── auth.service.spec.ts
+|  |  ├── auth.service.ts
+|  |  ├── dto
+|  |  |  ├── request.ts
+|  |  |  └── response.ts
+|  |  ├── jwt.strategy.ts
+|  |  ├── oauth
+|  |  |  ├── google.factory.ts
+|  |  |  ├── kakao.factory.ts
+|  |  |  ├── naver.factory.ts
+|  |  |  └── oauth.factory.ts
+|  |  └── sso.test.html
+|  ├── config
+|  |  ├── config.module.ts
+|  |  ├── config.service.spec.ts
+|  |  ├── config.service.ts
+|  |  └── dto
+|  |     └── config.ts
+|  ├── contact
+|  |  ├── contact.controller.spec.ts
+|  |  ├── contact.controller.ts
+|  |  ├── contact.entity.ts
+|  |  ├── contact.module.ts
+|  |  ├── contact.service.spec.ts
+|  |  ├── contact.service.ts
+|  |  └── dto
+|  |     ├── request.ts
+|  |     └── response.ts
+|  ├── etc
+|  |  ├── etc.controller.spec.ts
+|  |  ├── etc.controller.ts
+|  |  └── etc.module.ts
+|  ├── extension
+|  |  ├── date.ts
+|  |  └── extension.ts
+|  ├── faq
+|  |  ├── dto
+|  |  |  ├── request.ts
+|  |  |  └── response.ts
+|  |  ├── faq.controller.spec.ts
+|  |  ├── faq.controller.ts
+|  |  ├── faq.entity.ts
+|  |  ├── faq.module.ts
+|  |  ├── faq.service.spec.ts
+|  |  └── faq.service.ts
+|  ├── main.ts
+|  ├── notice
+|  |  ├── dto
+|  |  |  ├── request.ts
+|  |  |  └── response.ts
+|  |  ├── notice.controller.spec.ts
+|  |  ├── notice.controller.ts
+|  |  ├── notice.entity.ts
+|  |  ├── notice.module.ts
+|  |  ├── notice.service.spec.ts
+|  |  └── notice.service.ts
+|  ├── storage
+|  |  ├── dto
+|  |  |  ├── request.ts
+|  |  |  └── response.ts
+|  |  ├── storage.controller.spec.ts
+|  |  ├── storage.controller.ts
+|  |  ├── storage.module.ts
+|  |  ├── storage.service.spec.ts
+|  |  └── storage.service.ts
+|  ├── typeorm
+|  |  └── typeorm.module.ts
+|  ├── user
+|  |  ├── dto
+|  |  |  ├── request.ts
+|  |  |  └── response.ts
+|  |  ├── user.controller.spec.ts
+|  |  ├── user.controller.ts
+|  |  ├── user.decorator.ts
+|  |  ├── user.entity.ts
+|  |  ├── user.module.ts
+|  |  ├── user.service.spec.ts
+|  |  └── user.service.ts
+|  └── voice
+|     ├── dto
+|     |  ├── request.ts
+|     |  └── response.ts
+|     ├── voice.controller.spec.ts
+|     ├── voice.controller.ts
+|     ├── voice.entity.ts
+|     ├── voice.module.ts
+|     ├── voice.service.spec.ts
+|     └── voice.service.ts
+├── tsconfig.build.json
+└── tsconfig.json
+```
+
 
 
 
