@@ -54,21 +54,18 @@
 - AWS를 사용하여 클라우드 인프라 설계
 - 음성 파일을 저장하기 위해 S3를 사용하였으며, 보안 및 다운로드 속도 개선을 위한 CDN 도입
 - 비용 절감을 위해서 RDS를 현재 사용하지 않으며, EC2 내 docker를 활용하여 mysql 사용
-
 ![image](https://github.com/user-attachments/assets/25370fc9-881b-4b76-951b-9bb6761974f9)
 
 
 ## 서버 설계 및 구현
 ### DB 설계
 - DB는 mysql을 사용하였으며 ERDCloud(Online Tool)을 사용하여 schema를 설계하였습니다.
-
 ![image](https://github.com/user-attachments/assets/0726c027-76e3-454e-b7eb-fcac55781c15)
 
 ### Envionment 관리
 - AWS 서비스 중 AWS Systems Manager Parameter Store를 활용하여 중요 ENV 관리
 - .env에선 AWS parameter store에 접속하기 위한 정보만 가지고 있다.
-
-- ![envvv](https://github.com/user-attachments/assets/34db1186-4f6c-4610-9757-dc9490b1dfe5)
+![envvv](https://github.com/user-attachments/assets/34db1186-4f6c-4610-9757-dc9490b1dfe5)
 
 ### 코드 구현
 
