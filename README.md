@@ -2,7 +2,7 @@
 # Waker
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/52b011b5-3051-4572-9650-e256f5ebcbff" width="200" alt="Waker Logo" />
+  <img src="https://github.com/user-attachments/assets/d34d8252-bd35-4d80-a0b7-b276596b8721" width="200" alt="Waker Logo" />
 </p>
 
 <p align="center">애인, 가족, 최애 등의 목소리로 대화하며 일어나는 대화형 어플</p>
