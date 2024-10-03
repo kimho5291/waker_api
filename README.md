@@ -1,12 +1,14 @@
 
-
+# Waker
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f2ff1529-0b95-478e-b59a-356f51fb1c4c" width="200" alt="Waker Logo" />
 </p>
 
-# Waker
 <p align="center">애인, 가족, 최애 등의 목소리로 대화하며 일어나는 대화형 어플</p>
+
+## 프로젝트 소개
+
 
 
   
