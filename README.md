@@ -61,10 +61,11 @@
 ![image](https://github.com/user-attachments/assets/25370fc9-881b-4b76-951b-9bb6761974f9)
 
 
+
 ## 서버 설계 및 구현
 ### Ci/CD
 - dfdf
-![Group 45](https://github.com/user-attachments/assets/476c811e-58be-49c1-9873-e95ea9a7b409)
+![Group 45](https://github.com/user-attachments/assets/25899316-047d-4bab-9b13-30f0f3e299e1)
 
 ### DB 설계
 - DB는 mysql을 사용하였으며 ERDCloud(Online Tool)을 사용하여 schema를 설계하였습니다.
