@@ -80,7 +80,7 @@
 - DB는 mysql을 사용하였으며 ERDCloud(Online Tool)을 사용하여 schema를 설계하였습니다.
 ![image](https://github.com/user-attachments/assets/0726c027-76e3-454e-b7eb-fcac55781c15)
 
-### Envionment 관리
+### Environment 관리
 - AWS 서비스 중 AWS Systems Manager Parameter Store를 활용하여 중요 ENV 관리
 - .env에선 AWS parameter store에 접속하기 위한 정보만 가지고 있다.
 ![envvv](https://github.com/user-attachments/assets/34db1186-4f6c-4610-9757-dc9490b1dfe5)
